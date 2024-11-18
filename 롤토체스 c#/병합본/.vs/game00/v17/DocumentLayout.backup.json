@@ -1,0 +1,449 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|c:\\users\\minse\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\start1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:start1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\start2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:start2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|c:\\users\\minse\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\start1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:start1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|c:\\users\\minse\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\start4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:start4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|c:\\users\\minse\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\start3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:start3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|c:\\users\\minse\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\start3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:start3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|c:\\users\\minse\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\start2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:start2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|c:\\users\\minse\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|c:\\users\\minse\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\start4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:start4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|c:\\users\\minse\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\purchase3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:purchase3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|c:\\users\\minse\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\purchase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:purchase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|c:\\users\\minse\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\purchase2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:purchase2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|c:\\users\\minse\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\purchase4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:purchase4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\purchase4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:purchase4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\purchase2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:purchase2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\purchase3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:purchase3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\purchase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:purchase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|c:\\users\\minse\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\start1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3717A5B-DEAF-4BEE-96FC-9D8A87F11244}|game00.csproj|solutionrelative:start1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Start3.cs",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Start3.cs",
+              "RelativeDocumentMoniker": "Start3.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Start3.cs",
+              "RelativeToolTip": "Start3.cs",
+              "ViewState": "AgIAAO8BAAAAAAAAAAAmwPoBAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:07:55.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Start3.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Start3.cs",
+              "RelativeDocumentMoniker": "Start3.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Start3.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Start3.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:52:38.969Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Start2.cs",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Start2.cs",
+              "RelativeDocumentMoniker": "Start2.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Start2.cs",
+              "RelativeToolTip": "Start2.cs",
+              "ViewState": "AgIAAJQCAAAAAAAAAAAmwLoCAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:51:41.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAHkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:44:11.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-20T06:52:56.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:11:11.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Start1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Start1.cs",
+              "RelativeDocumentMoniker": "Start1.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Start1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Start1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:13:13.6Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Start1.cs",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Start1.cs",
+              "RelativeDocumentMoniker": "Start1.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Start1.cs",
+              "RelativeToolTip": "Start1.cs",
+              "ViewState": "AgIAAMICAAAAAAAAAAAmwKcCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T03:53:17.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwFkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:05:11.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Form2.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Form2.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:40:03.337Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Start4.cs",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Start4.cs",
+              "RelativeDocumentMoniker": "Start4.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Start4.cs",
+              "RelativeToolTip": "Start4.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T03:57:55.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Start2.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Start2.cs",
+              "RelativeDocumentMoniker": "Start2.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Start2.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Start2.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:40:08.614Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form3.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Form3.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Form3.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:25:00.234Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form4.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Form4.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Form4.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:25:11.357Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:04:58.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Start4.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Start4.cs",
+              "RelativeDocumentMoniker": "Start4.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Start4.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Start4.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T03:57:51.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Purchase3.cs",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Purchase3.cs",
+              "RelativeDocumentMoniker": "Purchase3.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Purchase3.cs",
+              "RelativeToolTip": "Purchase3.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwCYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:16:05.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Purchase1.cs",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Purchase1.cs",
+              "RelativeDocumentMoniker": "Purchase1.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Purchase1.cs",
+              "RelativeToolTip": "Purchase1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:09:41.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Purchase2.cs",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Purchase2.cs",
+              "RelativeDocumentMoniker": "Purchase2.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Purchase2.cs",
+              "RelativeToolTip": "Purchase2.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:15:41.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Purchase4.cs",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Purchase4.cs",
+              "RelativeDocumentMoniker": "Purchase4.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Purchase4.cs",
+              "RelativeToolTip": "Purchase4.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:16:23.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Purchase4.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Purchase4.cs",
+              "RelativeDocumentMoniker": "Purchase4.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Purchase4.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Purchase4.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:09:25.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Purchase2.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Purchase2.cs",
+              "RelativeDocumentMoniker": "Purchase2.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Purchase2.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Purchase2.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:08:30.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Purchase3.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Purchase3.cs",
+              "RelativeDocumentMoniker": "Purchase3.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Purchase3.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Purchase3.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:09:15.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Purchase1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Purchase1.cs",
+              "RelativeDocumentMoniker": "Purchase1.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Purchase1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Purchase1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:07:35.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Login.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Login.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:41:47.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Start1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Start1.Designer.cs",
+              "RelativeDocumentMoniker": "Start1.Designer.cs",
+              "ToolTip": "C:\\Users\\minse\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uBCD1\uD569\uBCF8\\\uBCD1\uD569\uBCF8\\Start1.Designer.cs",
+              "RelativeToolTip": "Start1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T04:08:54.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

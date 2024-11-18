@@ -1,0 +1,609 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <COMReference Include="WMPLib">
+      <WrapperTool>tlbimp</WrapperTool>
+      <VersionMinor>0</VersionMinor>
+      <VersionMajor>1</VersionMajor>
+      <Guid>6bf52a50-394a-11d3-b153-00c04f79faa6</Guid>
+      <Lcid>0</Lcid>
+      <Isolated>false</Isolated>
+      <EmbedInteropTypes>true</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxWMPLib">
+      <WrapperTool>aximp</WrapperTool>
+      <VersionMinor>0</VersionMinor>
+      <VersionMajor>1</VersionMajor>
+      <Guid>6bf52a50-394a-11d3-b153-00c04f79faa6</Guid>
+      <Lcid>0</Lcid>
+      <Isolated>false</Isolated>
+    </COMReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\%28157%29 포로 뭉치 _ 꼬마 전설이 쇼케이스 - 전략적 팀 전투 - YouTube - Chrome 2024-10-20 18-10-52.mp4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\얼음원본1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\모래원본1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\감시자원본1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\돌돌이원본1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\back.mp4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\rerollgray.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\reroll.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\levelupgray.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\levelup.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\사고난뒤.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\카직스 1코.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\카르마 4코.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\소라카 2코.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\리븐 3코.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\니달리 3코.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\그라가스 1코.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\가렌 5코.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Yasuo.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Vladimir.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Sejuani.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Leesin.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Diana.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Aphelios.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\6어둠의 인도자.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\6빛의 인도자.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\4어둠의 인도자.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\4빛의인도자.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\2어둠의 인도자.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\2빛의 인도자.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Yasuo_3D.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Vladimir_3D.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Soraka_3D.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Sejuani_3D.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Riven_3D.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Nidalee_3D.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Leesin_3D.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Kha_Zix_3D.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Karma_3D.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Garen_3D.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Diana_3D.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Aphelios_3D.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Gragas_3D.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo30_4.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo30_3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo30_2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo30_1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo30_5.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo35_3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo35_2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo35_1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo34_3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo34_2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo34_1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo33_3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo33_2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo33_1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo17_3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo16_5.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo15_3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo14_3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo29_4.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo29_3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo29_2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo29_1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo28_5.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo28_4.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo28_3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo28_2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo28_1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo29_5.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo23_3onon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo23_2onon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo23_2on2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo23_3off.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo23_2on.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo23_1on.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo22_3on.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo22_2on.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo22_1on.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo23_3on.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ll22_3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ll22_2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ll22_1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo20_3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo20_2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo20_1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo19_3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo19_2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo19_1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo18_3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo18_2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo17_2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo17_1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo16_4.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo16_3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo16_2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo15_2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo15_1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo14_2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo14_1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo21.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\oo18_1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\lol45.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\lol44.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\lol43.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\lol42.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\lol41.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\lol33.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\lol32.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\lol31.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\lol30.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\lol29.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\lol19.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\lol16.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\lol15.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\lol10.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\lol11.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\lol4.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ll24.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ll22.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ll21.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ll20.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ll19.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ll18.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ll17.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\lll8.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\lll7.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ll13.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\lll6.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ll12.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ll11.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ll10.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ll9.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ll8.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ll7.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ll6.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ll5.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ll4.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ll3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ll2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,237 @@
+C:\Users\kbj97\OneDrive\바탕 화면\game00\bin\Debug\net5.0-windows\game00.exe
+C:\Users\kbj97\OneDrive\바탕 화면\game00\bin\Debug\net5.0-windows\game00.deps.json
+C:\Users\kbj97\OneDrive\바탕 화면\game00\bin\Debug\net5.0-windows\game00.runtimeconfig.json
+C:\Users\kbj97\OneDrive\바탕 화면\game00\bin\Debug\net5.0-windows\game00.runtimeconfig.dev.json
+C:\Users\kbj97\OneDrive\바탕 화면\game00\bin\Debug\net5.0-windows\game00.dll
+C:\Users\kbj97\OneDrive\바탕 화면\game00\bin\Debug\net5.0-windows\game00.pdb
+C:\Users\kbj97\OneDrive\바탕 화면\game00\obj\Debug\net5.0-windows\game00.Form1.resources
+C:\Users\kbj97\OneDrive\바탕 화면\game00\obj\Debug\net5.0-windows\game00.Properties.Resources.resources
+C:\Users\kbj97\OneDrive\바탕 화면\game00\obj\Debug\net5.0-windows\game00.csproj.GenerateResource.cache
+C:\Users\kbj97\OneDrive\바탕 화면\game00\obj\Debug\net5.0-windows\game00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbj97\OneDrive\바탕 화면\game00\obj\Debug\net5.0-windows\game00.AssemblyInfoInputs.cache
+C:\Users\kbj97\OneDrive\바탕 화면\game00\obj\Debug\net5.0-windows\game00.AssemblyInfo.cs
+C:\Users\kbj97\OneDrive\바탕 화면\game00\obj\Debug\net5.0-windows\game00.csproj.CoreCompileInputs.cache
+C:\Users\kbj97\OneDrive\바탕 화면\game00\obj\Debug\net5.0-windows\game00.dll
+C:\Users\kbj97\OneDrive\바탕 화면\game00\obj\Debug\net5.0-windows\refint\game00.dll
+C:\Users\kbj97\OneDrive\바탕 화면\game00\obj\Debug\net5.0-windows\game00.pdb
+C:\Users\kbj97\OneDrive\바탕 화면\game00\obj\Debug\net5.0-windows\game00.genruntimeconfig.cache
+C:\Users\kbj97\OneDrive\바탕 화면\game00\obj\Debug\net5.0-windows\ref\game00.dll
+C:\Users\kbj97\OneDrive\바탕 화면\game00\obj\Debug\net5.0-windows\game00.Form2.resources
+C:\Users\kbj97\OneDrive\바탕 화면\game00\obj\Debug\net5.0-windows\game00.Form3.resources
+C:\Users\kbj97\OneDrive\바탕 화면\game00\obj\Debug\net5.0-windows\game00.Form4.resources
+C:\Users\kbj97\OneDrive\바탕 화면\game00 - 복사본\bin\Debug\net5.0-windows\game00.exe
+C:\Users\kbj97\OneDrive\바탕 화면\game00 - 복사본\bin\Debug\net5.0-windows\game00.deps.json
+C:\Users\kbj97\OneDrive\바탕 화면\game00 - 복사본\bin\Debug\net5.0-windows\game00.runtimeconfig.json
+C:\Users\kbj97\OneDrive\바탕 화면\game00 - 복사본\bin\Debug\net5.0-windows\game00.runtimeconfig.dev.json
+C:\Users\kbj97\OneDrive\바탕 화면\game00 - 복사본\bin\Debug\net5.0-windows\game00.dll
+C:\Users\kbj97\OneDrive\바탕 화면\game00 - 복사본\bin\Debug\net5.0-windows\game00.pdb
+C:\Users\kbj97\OneDrive\바탕 화면\game00 - 복사본\obj\Debug\net5.0-windows\game00.Form1.resources
+C:\Users\kbj97\OneDrive\바탕 화면\game00 - 복사본\obj\Debug\net5.0-windows\game00.Form2.resources
+C:\Users\kbj97\OneDrive\바탕 화면\game00 - 복사본\obj\Debug\net5.0-windows\game00.Form3.resources
+C:\Users\kbj97\OneDrive\바탕 화면\game00 - 복사본\obj\Debug\net5.0-windows\game00.Form4.resources
+C:\Users\kbj97\OneDrive\바탕 화면\game00 - 복사본\obj\Debug\net5.0-windows\game00.Properties.Resources.resources
+C:\Users\kbj97\OneDrive\바탕 화면\game00 - 복사본\obj\Debug\net5.0-windows\game00.csproj.GenerateResource.cache
+C:\Users\kbj97\OneDrive\바탕 화면\game00 - 복사본\obj\Debug\net5.0-windows\game00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbj97\OneDrive\바탕 화면\game00 - 복사본\obj\Debug\net5.0-windows\game00.AssemblyInfoInputs.cache
+C:\Users\kbj97\OneDrive\바탕 화면\game00 - 복사본\obj\Debug\net5.0-windows\game00.AssemblyInfo.cs
+C:\Users\kbj97\OneDrive\바탕 화면\game00 - 복사본\obj\Debug\net5.0-windows\game00.csproj.CoreCompileInputs.cache
+C:\Users\kbj97\OneDrive\바탕 화면\game00 - 복사본\obj\Debug\net5.0-windows\game00.dll
+C:\Users\kbj97\OneDrive\바탕 화면\game00 - 복사본\obj\Debug\net5.0-windows\refint\game00.dll
+C:\Users\kbj97\OneDrive\바탕 화면\game00 - 복사본\obj\Debug\net5.0-windows\game00.pdb
+C:\Users\kbj97\OneDrive\바탕 화면\game00 - 복사본\obj\Debug\net5.0-windows\game00.genruntimeconfig.cache
+C:\Users\kbj97\OneDrive\바탕 화면\game00 - 복사본\obj\Debug\net5.0-windows\ref\game00.dll
+C:\Users\moble\Desktop\새 폴더 (2)\bin\Debug\net5.0-windows\game00.exe
+C:\Users\moble\Desktop\새 폴더 (2)\bin\Debug\net5.0-windows\game00.deps.json
+C:\Users\moble\Desktop\새 폴더 (2)\bin\Debug\net5.0-windows\game00.runtimeconfig.json
+C:\Users\moble\Desktop\새 폴더 (2)\bin\Debug\net5.0-windows\game00.runtimeconfig.dev.json
+C:\Users\moble\Desktop\새 폴더 (2)\bin\Debug\net5.0-windows\game00.dll
+C:\Users\moble\Desktop\새 폴더 (2)\bin\Debug\net5.0-windows\game00.pdb
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.Form1.resources
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.Form2.resources
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.Form3.resources
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.Form4.resources
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.Properties.Resources.resources
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.csproj.GenerateResource.cache
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.AssemblyInfoInputs.cache
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.AssemblyInfo.cs
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.csproj.CoreCompileInputs.cache
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.dll
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\refint\game00.dll
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.pdb
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.genruntimeconfig.cache
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\ref\game00.dll
+C:\Users\moble\Desktop\새 폴더 (2)\bin\Debug\net5.0-windows\Interop.WMPLib.dll
+C:\Users\moble\Desktop\새 폴더 (2)\bin\Debug\net5.0-windows\AxInterop.WMPLib.dll
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\Interop.WMPLib.dll
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\AxInterop.WMPLib.dll
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.csproj.ResolveComReference.cache
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.Loby1.resources
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.Loby2.resources
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.Login.resources
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.Purchase1.resources
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.Purchase2.resources
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.Purchase3.resources
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.Purchase4.resources
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.Shop.resources
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.Start1.resources
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.Start2.resources
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.Start3.resources
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.Start4.resources
+C:\Users\moble\Desktop\새 폴더 (2)\obj\Debug\net5.0-windows\game00.Registration.resources
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\Interop.WMPLib.dll
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\AxInterop.WMPLib.dll
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.csproj.ResolveComReference.cache
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.Form1.resources
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.Form2.resources
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.Form3.resources
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.Form4.resources
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.Loby1.resources
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.Loby2.resources
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.Login.resources
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.Properties.Resources.resources
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.Purchase1.resources
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.Purchase2.resources
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.Purchase3.resources
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.Purchase4.resources
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.Registration.resources
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.Shop.resources
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.Start1.resources
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.Start2.resources
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.Start3.resources
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.Start4.resources
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.csproj.GenerateResource.cache
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.AssemblyInfoInputs.cache
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.AssemblyInfo.cs
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.csproj.CoreCompileInputs.cache
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.dll
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\refint\game00.dll
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.pdb
+C:\Users\moble\Desktop\병합본\bin\Debug\net5.0-windows\game00.exe
+C:\Users\moble\Desktop\병합본\bin\Debug\net5.0-windows\game00.deps.json
+C:\Users\moble\Desktop\병합본\bin\Debug\net5.0-windows\game00.runtimeconfig.json
+C:\Users\moble\Desktop\병합본\bin\Debug\net5.0-windows\game00.runtimeconfig.dev.json
+C:\Users\moble\Desktop\병합본\bin\Debug\net5.0-windows\game00.dll
+C:\Users\moble\Desktop\병합본\bin\Debug\net5.0-windows\game00.pdb
+C:\Users\moble\Desktop\병합본\bin\Debug\net5.0-windows\Interop.WMPLib.dll
+C:\Users\moble\Desktop\병합본\bin\Debug\net5.0-windows\AxInterop.WMPLib.dll
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\game00.genruntimeconfig.cache
+C:\Users\moble\Desktop\병합본\obj\Debug\net5.0-windows\ref\game00.dll
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\bin\Debug\net5.0-windows\game00.exe
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\bin\Debug\net5.0-windows\game00.deps.json
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\bin\Debug\net5.0-windows\game00.runtimeconfig.json
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\bin\Debug\net5.0-windows\game00.runtimeconfig.dev.json
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\bin\Debug\net5.0-windows\game00.dll
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\bin\Debug\net5.0-windows\game00.pdb
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\bin\Debug\net5.0-windows\Interop.WMPLib.dll
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\bin\Debug\net5.0-windows\AxInterop.WMPLib.dll
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\Interop.WMPLib.dll
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\AxInterop.WMPLib.dll
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.csproj.ResolveComReference.cache
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.Form1.resources
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.Form2.resources
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.Form3.resources
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.Form4.resources
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.Loby1.resources
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.Loby2.resources
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.Login.resources
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.Properties.Resources.resources
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.Purchase1.resources
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.Purchase2.resources
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.Purchase3.resources
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.Purchase4.resources
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.Registration.resources
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.Shop.resources
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.Start1.resources
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.Start2.resources
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.Start3.resources
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.Start4.resources
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.csproj.GenerateResource.cache
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.AssemblyInfoInputs.cache
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.AssemblyInfo.cs
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.csproj.CoreCompileInputs.cache
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.dll
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\refint\game00.dll
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.pdb
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\game00.genruntimeconfig.cache
+C:\Users\kbj97\OneDrive\바탕 화면\병합본\obj\Debug\net5.0-windows\ref\game00.dll
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\bin\Debug\net5.0-windows\game00.exe
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\bin\Debug\net5.0-windows\game00.deps.json
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\bin\Debug\net5.0-windows\game00.runtimeconfig.json
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\bin\Debug\net5.0-windows\game00.runtimeconfig.dev.json
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\bin\Debug\net5.0-windows\game00.dll
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\bin\Debug\net5.0-windows\game00.pdb
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\bin\Debug\net5.0-windows\Interop.WMPLib.dll
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\bin\Debug\net5.0-windows\AxInterop.WMPLib.dll
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\Interop.WMPLib.dll
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\AxInterop.WMPLib.dll
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.csproj.ResolveComReference.cache
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.Form1.resources
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.Form2.resources
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.Form3.resources
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.Form4.resources
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.Loby1.resources
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.Loby2.resources
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.Login.resources
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.Properties.Resources.resources
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.Purchase1.resources
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.Purchase2.resources
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.Purchase3.resources
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.Purchase4.resources
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.Registration.resources
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.Shop.resources
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.Start1.resources
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.Start2.resources
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.Start3.resources
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.Start4.resources
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.csproj.GenerateResource.cache
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.AssemblyInfoInputs.cache
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.AssemblyInfo.cs
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.csproj.CoreCompileInputs.cache
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.dll
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\refint\game00.dll
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.pdb
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\game00.genruntimeconfig.cache
+C:\Users\minse\OneDrive\바탕 화면\병합본\병합본\obj\Debug\net5.0-windows\ref\game00.dll
+C:\Users\VIP\Desktop\병합본\병합본\bin\Debug\net5.0-windows\game00.exe
+C:\Users\VIP\Desktop\병합본\병합본\bin\Debug\net5.0-windows\game00.deps.json
+C:\Users\VIP\Desktop\병합본\병합본\bin\Debug\net5.0-windows\game00.runtimeconfig.json
+C:\Users\VIP\Desktop\병합본\병합본\bin\Debug\net5.0-windows\game00.runtimeconfig.dev.json
+C:\Users\VIP\Desktop\병합본\병합본\bin\Debug\net5.0-windows\game00.dll
+C:\Users\VIP\Desktop\병합본\병합본\bin\Debug\net5.0-windows\game00.pdb
+C:\Users\VIP\Desktop\병합본\병합본\bin\Debug\net5.0-windows\Interop.WMPLib.dll
+C:\Users\VIP\Desktop\병합본\병합본\bin\Debug\net5.0-windows\AxInterop.WMPLib.dll
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\Interop.WMPLib.dll
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\AxInterop.WMPLib.dll
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.csproj.ResolveComReference.cache
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.Form1.resources
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.Form2.resources
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.Form3.resources
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.Form4.resources
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.Loby1.resources
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.Loby2.resources
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.Login.resources
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.Properties.Resources.resources
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.Purchase1.resources
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.Purchase2.resources
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.Purchase3.resources
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.Purchase4.resources
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.Registration.resources
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.Shop.resources
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.Start1.resources
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.Start2.resources
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.Start3.resources
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.Start4.resources
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.csproj.GenerateResource.cache
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.AssemblyInfoInputs.cache
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.AssemblyInfo.cs
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.csproj.CoreCompileInputs.cache
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.dll
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\refint\game00.dll
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.pdb
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\game00.genruntimeconfig.cache
+C:\Users\VIP\Desktop\병합본\병합본\obj\Debug\net5.0-windows\ref\game00.dll
